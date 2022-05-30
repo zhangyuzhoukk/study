@@ -6,10 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @Slf4j//lombok提供的日志注解
 @SpringBootApplication//springboot启动类
-public class StudyApplication {
+public class Application {
 
 	public static void main(String[] args)  {
-		SpringApplication.run(StudyApplication.class, args);
+		SpringApplication.run(Application.class, args);
 		log.info("项目启动成功");
 	}
 

@@ -20,34 +20,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54564613-b21e-44e4-9378-4a09701e71bb" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_19.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_31.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_6_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_6_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_6_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/study/config/DbContextHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/study/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/study/config/datasource/DynamicDataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/study/entity/employee/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/study/enums/DBTypeEnum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/study/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/study/Proxy/DebugInvocationHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/study/Proxy/JdkProxyFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/study/Proxy/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/study/Proxy/SmsService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/study/Proxy/SmsServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/study/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/study/StudyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/study/StudyApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/study/config/WebMvcConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/study/controller/FreemakerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/study/StudyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/study/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/study/StudyApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/study/StudyApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/study/StudyApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/study/ApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/study.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/study/HelloSpringmvc/web/sd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/study/StudyApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/study/StudyApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/study/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/study/Proxy/DebugInvocationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/study/Proxy/JdkProxyFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/study/Proxy/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/study/Proxy/SmsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/study/Proxy/SmsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/study/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/study/StudyApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/study/config/WebMvcConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/study/controller/FreemakerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/study/StudyApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +66,10 @@
         <option value="Yml File" />
         <option value="freemarker" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="Tag Library Descriptor" />
         <option value="FxmlFile" />
         <option value="spring-beans.schema" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -75,7 +81,6 @@
     <ConfirmationsSetting value="2" id="新增" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -93,18 +98,18 @@
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java\GitSpace\study\src\main\resources" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java\GitSpace\study\src\main\java\com\example\study\HelloSpringmvc\resources" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\GitSpace\study\src\main\resources" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.StudyApplicationTests">
-    <configuration name="StudyApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ApplicationTests">
+    <configuration name="ApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="study" />
       <extension name="coverage">
         <pattern>
@@ -113,7 +118,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.example.study" />
-      <option name="MAIN_CLASS_NAME" value="com.example.study.StudyApplicationTests" />
+      <option name="MAIN_CLASS_NAME" value="com.example.study.ApplicationTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -121,16 +126,11 @@
     </configuration>
     <configuration name="StudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="study" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.study.StudyApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.study.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.StudyApplicationTests" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -153,7 +153,8 @@
       <workItem from="1653753864777" duration="1551000" />
       <workItem from="1653803187982" duration="3062000" />
       <workItem from="1653810260983" duration="24000" />
-      <workItem from="1653810298027" duration="117000" />
+      <workItem from="1653810298027" duration="15898000" />
+      <workItem from="1653880520616" duration="466000" />
     </task>
     <servers />
   </component>
@@ -173,6 +174,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="965" y="392" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1653840839773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="965" y="392" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1653840839773" />
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1653805373127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -185,6 +190,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="619" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1653666325655" />
+    <state x="673" y="211" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1653810535408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="673" y="211" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1653810535408" />
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1653810385817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -201,22 +210,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="719" y="204" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1653667379125" />
-    <state width="1877" height="346" key="GridCell.Tab.0.bottom" timestamp="1653810192815">
+    <state width="1877" height="194" key="GridCell.Tab.0.bottom" timestamp="1653814348988">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="346" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1653810192815" />
-    <state width="1877" height="346" key="GridCell.Tab.0.center" timestamp="1653810192815">
+    <state width="1877" height="194" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1653814348988" />
+    <state width="1877" height="194" key="GridCell.Tab.0.center" timestamp="1653814348988">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="346" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1653810192815" />
-    <state width="1877" height="346" key="GridCell.Tab.0.left" timestamp="1653810192815">
+    <state width="1877" height="194" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1653814348988" />
+    <state width="1877" height="194" key="GridCell.Tab.0.left" timestamp="1653814348988">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="346" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1653810192815" />
-    <state width="1877" height="346" key="GridCell.Tab.0.right" timestamp="1653810192815">
+    <state width="1877" height="194" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1653814348988" />
+    <state width="1877" height="194" key="GridCell.Tab.0.right" timestamp="1653814348988">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="346" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1653810192815" />
+    <state width="1877" height="194" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1653814348988" />
     <state width="1877" height="182" key="GridCell.Tab.1.bottom" timestamp="1653580482173">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -237,10 +246,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="263" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1653753923799" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1653804817200">
+    <state x="440" y="94" key="SettingsEditor" timestamp="1653840849468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1653804817200" />
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1653840849468" />
     <state x="661" y="252" width="597" height="536" key="find.popup" timestamp="1653401878823">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -253,9 +262,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1653381032423" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1653486977171">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1653813965033">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1653486977171" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1653813965033" />
   </component>
 </project>
